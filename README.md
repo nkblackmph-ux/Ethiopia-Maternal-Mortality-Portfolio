@@ -4,14 +4,14 @@
 
 ---
 
-## 📘 Overview
+## Overview
 This professional portfolio presents a **pre-implementation design package** for the *Ethiopia Maternal Mortality Reduction Initiative (EMMRI)* — a proposed five-year effort aimed at reducing maternal mortality through capacity building, strengthened community health systems, and improved data governance.  
 
 Each artifact illustrates project readiness in the domains of strategic planning, training design, data quality assurance, ethical compliance, and monitoring & evaluation (M&E) framework development. The materials adhere to **WHO and USAID-aligned standards** for maternal health and project management.
 
 ---
 
-## 📂 Portfolio Contents
+## Portfolio Contents
 
 | # | File | Title | Description |
 |---|------|--------|--------------|
@@ -24,7 +24,7 @@ Each artifact illustrates project readiness in the domains of strategic planning
 
 ---
 
-## 🎯 Project Design Highlights
+## Project Design Highlights
 
 - **Strategic Leadership:** Developed comprehensive management and M&E materials to support a national maternal mortality reduction initiative in collaboration with Ethiopia’s Ministry of Health and regional health bureaus.  
 - **Capacity Planning:** Designed a scalable training framework targeting over 500 Health Extension Workers (HEWs) in high-burden districts.  
@@ -34,7 +34,7 @@ Each artifact illustrates project readiness in the domains of strategic planning
 
 ---
 
-## 🧩 Frameworks & Methodologies
+## Frameworks & Methodologies
 
 - **Monitoring & Evaluation (M&E):** Based on WHO Quality Improvement and USAID audit principles  
 - **Data Management:** REDCap-integrated monitoring and verification workflows  
@@ -44,14 +44,14 @@ Each artifact illustrates project readiness in the domains of strategic planning
 
 ---
 
-## 🚀 Implementation Readiness
+## Implementation Readiness
 
 This portfolio represents **Phase 0 (Design and Preparation)** of the EMMRI.  
 All tools, checklists, and frameworks have been developed to enable **immediate deployment following donor approval and baseline assessments**.
 
 ---
 
-## 📞 Contact & Attribution
+## Contact & Attribution
 
 **Project Manager:**  
 *N.K. Black, MPH*  
